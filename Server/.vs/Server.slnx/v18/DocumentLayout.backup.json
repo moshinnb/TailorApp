@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\mohsin\\NaqashTailor App\\NQTailorApp\\Server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{299CD688-8A00-4629-A9E0-9BEF7657940A}|Server.csproj|e:\\mohsin\\naqashtailor app\\nqtailorapp\\server\\application\\services\\outfitservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{299CD688-8A00-4629-A9E0-9BEF7657940A}|Server.csproj|solutionrelative:application\\services\\outfitservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299CD688-8A00-4629-A9E0-9BEF7657940A}|Server.csproj|e:\\mohsin\\naqashtailor app\\nqtailorapp\\server\\infrastructure\\interfaces\\ioutfitrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{299CD688-8A00-4629-A9E0-9BEF7657940A}|Server.csproj|solutionrelative:infrastructure\\interfaces\\ioutfitrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299CD688-8A00-4629-A9E0-9BEF7657940A}|Server.csproj|e:\\mohsin\\naqashtailor app\\nqtailorapp\\server\\application\\dtos\\updateoutfitdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{299CD688-8A00-4629-A9E0-9BEF7657940A}|Server.csproj|solutionrelative:application\\dtos\\updateoutfitdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299CD688-8A00-4629-A9E0-9BEF7657940A}|Server.csproj|e:\\mohsin\\naqashtailor app\\nqtailorapp\\server\\application\\common\\mappings\\mapsterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{299CD688-8A00-4629-A9E0-9BEF7657940A}|Server.csproj|solutionrelative:application\\common\\mappings\\mapsterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299CD688-8A00-4629-A9E0-9BEF7657940A}|Server.csproj|e:\\mohsin\\naqashtailor app\\nqtailorapp\\server\\application\\dtos\\createoutfitdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{299CD688-8A00-4629-A9E0-9BEF7657940A}|Server.csproj|solutionrelative:application\\dtos\\createoutfitdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299CD688-8A00-4629-A9E0-9BEF7657940A}|Server.csproj|e:\\mohsin\\naqashtailor app\\nqtailorapp\\server\\application\\dtos\\outfitdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{299CD688-8A00-4629-A9E0-9BEF7657940A}|Server.csproj|solutionrelative:application\\dtos\\outfitdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299CD688-8A00-4629-A9E0-9BEF7657940A}|Server.csproj|e:\\mohsin\\naqashtailor app\\nqtailorapp\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{299CD688-8A00-4629-A9E0-9BEF7657940A}|Server.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299CD688-8A00-4629-A9E0-9BEF7657940A}|Server.csproj|e:\\mohsin\\naqashtailor app\\nqtailorapp\\server\\application\\interfaces\\ioutfitinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{299CD688-8A00-4629-A9E0-9BEF7657940A}|Server.csproj|solutionrelative:application\\interfaces\\ioutfitinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299CD688-8A00-4629-A9E0-9BEF7657940A}|Server.csproj|e:\\mohsin\\naqashtailor app\\nqtailorapp\\server\\infrastructure\\repositories\\outfitrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{299CD688-8A00-4629-A9E0-9BEF7657940A}|Server.csproj|solutionrelative:infrastructure\\repositories\\outfitrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateOutfitDto.cs",
+              "DocumentMoniker": "E:\\mohsin\\NaqashTailor App\\NQTailorApp\\Server\\Application\\DTOs\\UpdateOutfitDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\UpdateOutfitDto.cs",
+              "ToolTip": "E:\\mohsin\\NaqashTailor App\\NQTailorApp\\Server\\Application\\DTOs\\UpdateOutfitDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\UpdateOutfitDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T11:03:01.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateOutfitDto.cs",
+              "DocumentMoniker": "E:\\mohsin\\NaqashTailor App\\NQTailorApp\\Server\\Application\\DTOs\\CreateOutfitDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\CreateOutfitDto.cs",
+              "ToolTip": "E:\\mohsin\\NaqashTailor App\\NQTailorApp\\Server\\Application\\DTOs\\CreateOutfitDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\CreateOutfitDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T11:02:48.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MapsterConfig.cs",
+              "DocumentMoniker": "E:\\mohsin\\NaqashTailor App\\NQTailorApp\\Server\\Application\\Common\\Mappings\\MapsterConfig.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\Mappings\\MapsterConfig.cs",
+              "ToolTip": "E:\\mohsin\\NaqashTailor App\\NQTailorApp\\Server\\Application\\Common\\Mappings\\MapsterConfig.cs",
+              "RelativeToolTip": "Application\\Common\\Mappings\\MapsterConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T11:01:23.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OutfitService.cs",
+              "DocumentMoniker": "E:\\mohsin\\NaqashTailor App\\NQTailorApp\\Server\\Application\\Services\\OutfitService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\OutfitService.cs",
+              "ToolTip": "E:\\mohsin\\NaqashTailor App\\NQTailorApp\\Server\\Application\\Services\\OutfitService.cs",
+              "RelativeToolTip": "Application\\Services\\OutfitService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAADwvxgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T10:56:22.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IOutfitRepository.cs",
+              "DocumentMoniker": "E:\\mohsin\\NaqashTailor App\\NQTailorApp\\Server\\Infrastructure\\Interfaces\\IOutfitRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Interfaces\\IOutfitRepository.cs",
+              "ToolTip": "E:\\mohsin\\NaqashTailor App\\NQTailorApp\\Server\\Infrastructure\\Interfaces\\IOutfitRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Interfaces\\IOutfitRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T10:47:23.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OutfitDto.cs",
+              "DocumentMoniker": "E:\\mohsin\\NaqashTailor App\\NQTailorApp\\Server\\Application\\DTOs\\OutfitDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\OutfitDto.cs",
+              "ToolTip": "E:\\mohsin\\NaqashTailor App\\NQTailorApp\\Server\\Application\\DTOs\\OutfitDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\OutfitDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T11:02:17.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\mohsin\\NaqashTailor App\\NQTailorApp\\Server\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\mohsin\\NaqashTailor App\\NQTailorApp\\Server\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABQAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T10:59:07.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IOutfitInterface.cs",
+              "DocumentMoniker": "E:\\mohsin\\NaqashTailor App\\NQTailorApp\\Server\\Application\\Interfaces\\IOutfitInterface.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IOutfitInterface.cs",
+              "ToolTip": "E:\\mohsin\\NaqashTailor App\\NQTailorApp\\Server\\Application\\Interfaces\\IOutfitInterface.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IOutfitInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T10:56:06.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OutfitRepository.cs",
+              "DocumentMoniker": "E:\\mohsin\\NaqashTailor App\\NQTailorApp\\Server\\Infrastructure\\Repositories\\OutfitRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\OutfitRepository.cs",
+              "ToolTip": "E:\\mohsin\\NaqashTailor App\\NQTailorApp\\Server\\Infrastructure\\Repositories\\OutfitRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\OutfitRepository.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAA7wBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T10:48:19.51Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
